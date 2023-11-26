@@ -4,7 +4,7 @@
 This React-based Quiz App allows users to take a quiz, answer questions, and view their scores. It utilizes React, SCSS for styling, and includes a result display at the end.
 
 ## Live Demo
-[[Live Demo Link]](https://quizmeappdivyanshukaushal.netlify.app/)(#) 
+[Live Demo Link]](https://quizmeappdivyanshukaushal.netlify.app/)
 
 ## Installation
 1. Clone the repository.
