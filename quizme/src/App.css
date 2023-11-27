@@ -81,8 +81,8 @@ body{
   box-shadow: 3px 3px 4px 1px rgb(78, 69, 78);
 }
 .option-btn:hover{
-  background-color: rgb(212, 118, 212);
-  color:white;
+  background-color: rgb(227, 134, 227);
+  color:rgb(244, 239, 239);
 }
 #next-button{
   padding:10px;
@@ -104,8 +104,12 @@ body{
   box-shadow:none;    
 }
 .show-score{
-  position: absolute;
-  top:30%;
-  font-size: 40px;
+  color: rgb(203, 0, 203);
+  font-size: 35px;
   text-align: center;  
+}
+.show-score p{
+  background-color: #e3e387;
+  border-radius: 20px;
+  color: rgb(5, 76, 162);
 }
